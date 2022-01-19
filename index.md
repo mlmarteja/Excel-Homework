@@ -11,17 +11,13 @@ Download [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel).
 Once the Excel has been launched, start a new spreadsheet. To start a new spread sheet, select **Blank workbook** and start adding data.
 ![StartANewSheet](https://user-images.githubusercontent.com/93753370/150057790-bdb1c6bc-3629-46d9-bdfd-dac51ded606b.png)
 
-An alternative is to just open an existing data set by selecting **File**
-https://user-images.githubusercontent.com/93753370/150060689-116225ae-f7d0-49a9-9d02-a7d9b56d57b4.mp4
+An alternative is to just open an existing data set by selecting **File**. For this tutorial, I used Plat Height Data (put a link here to the csv) that was provided by Arielle from the previous Data Science Class
+   (add video here)
 
 
 
 ## Step 3 - Insert -> PivotTable
-
-
-
-### Different Kinds of Pivot Table
-
+Once PivotTable is selected, a window will pop up and display a menu that will ask the user for the range of data that will be used in the PivotTable.
 
 
 ## Step 3 - Building Your PivotTable
