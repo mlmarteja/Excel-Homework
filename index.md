@@ -19,9 +19,11 @@ Click on the Image below to know how to open an existing file on Excel
 
 ## Step 3 - Insert -> PivotTable
 To get to the PivotTable, go to Insert and under that menu, the option to create a PivotTable should be available.
+
 ![StartANewSheet](https://user-images.githubusercontent.com/93753370/150380610-664d91b8-7d76-4ef9-b8ef-ddc087de5fac.png)
 
 Once PivotTable is selected, a window will pop up and display a menu that will ask the user for the range of data that will be used in the PivotTable.
+
 ![PivotTableRange](https://user-images.githubusercontent.com/93753370/150380713-7f9bbe6b-3be3-43e5-bf3e-8f61d9704429.png)
 
 
