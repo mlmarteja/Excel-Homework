@@ -22,4 +22,4 @@ Once PivotTable is selected, a window will pop up and display a menu that will a
 
 ## Step 3 - Building Your PivotTable.
 
-[![Alternate Text]({https://user-images.githubusercontent.com/93753370/150377466-c20a4a7b-e776-43f2-a708-d04981942d56.jpg})]({https://user-images.githubusercontent.com/93753370/150376768-3db48c42-bcfb-4914-a01d-cefd17acf407.mp4} "Open New Chat")
+[![Alternate Text](https://user-images.githubusercontent.com/93753370/150377466-c20a4a7b-e776-43f2-a708-d04981942d56.jpg)](https://user-images.githubusercontent.com/93753370/150376768-3db48c42-bcfb-4914-a01d-cefd17acf407.mp4 "Open New Chat")
