@@ -46,3 +46,12 @@ Note: When you click on the chosen fields, they will be put into default areas. 
 
 For example, I had the following fields selected: Genus_species, Family, height, loght, and County. These fields were automatically put into the areas bellow. The Rows contained non-numeric fields Family, height, and Genus_species. The Values contained numeric fields height, and loght.
 ![PivotTableExample](https://user-images.githubusercontent.com/93753370/150448671-f436eedc-3407-4988-86ee-46a51a45502a.png)
+
+### Working with PivotTable Values
+When working with the Values area, PivotTable firlds will create defult fields such as **SUM**. Iff you wat the change any calculations that you want to present in the **Values** area, you can right click and select **Value Fields Settings** option.
+![valuearea](https://user-images.githubusercontent.com/93753370/150595432-eebebcdb-21e1-464b-b100-a599c77ebb06.png)
+
+WHen the Value Field Settings pane is visible, you change change the type of calculation that is usedto summarize the data from the fields. For this example, instead of selecting **Sum** to display the sum of the sales, we will select **Average** to display the average of the sales.
+![ValueSettings](https://user-images.githubusercontent.com/93753370/150595716-2f965b65-4e7f-4a82-a72d-c79d2d1c8664.png)
+Here is the new PivotTable with the average sales.
+![AverageSales](https://user-images.githubusercontent.com/93753370/150596275-c264fc00-d9fe-4c4a-924f-af4f5c988070.png)
