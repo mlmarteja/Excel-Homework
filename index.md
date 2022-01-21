@@ -1,8 +1,8 @@
 ## How to Create PivotTables in Excel
 
-In this tutorial, I will illustrate how to utilize a PivotTable tool in Excel. PivotTables is a generic terms that is coined by Microsoft. According to Microsoft, [PivotTable](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) is a powerful tool that is used to calculate, summarize and analyze data. 
+This tutorial will illustrate how to utilize a PivotTable tool in Excel. PivotTables is a generic terms that is coined by Microsoft. According to Microsoft, [PivotTable](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) is a powerful tool that is used to calculate, summarize and analyze data. This statistical tool us utilized to summarize and organize the rows and columns that the user wants to represent in the streadsheet without changing the spreadsheet of the dataset. Essentially, it "pivots" the data to provide a different perspective.
 
-In addtion, it allows the user to see data comparisons, patterns, and trends. This allowsthe user to extract the significat information from a large detailed data set. For example, in this tutorial we will utilize Plant Height Data. Lets say that we want to only comparethe heights of each plant, could use PivotTables to illustrate sum of the heights of each of the plants that are presented in the data. 
+In addtion, it allows the user to see data comparisons, patterns, and trends. This allows the user to extract the significat information from a large detailed data set. For example, in this tutorial we will utilize Plant Height Data. Lets say that we want to only comparethe heights of each plant, could use PivotTables to illustrate sum of the heights of each of the plants that are presented in the data. 
 
 In this example webpage will provide basic instructions on how to utilize this tool and other operations that can be done.
 
