@@ -39,7 +39,5 @@ The PivotTable Fields contains the fields of data, the areas, defer layout updat
 
 Note: When you click on the chosen fields, they will be put into default areas. In other words, non-numeric fields are added **Rows**, data and time is put into **Columns**, and numeric fields are placed under **Values**.
 
-## Step 4 - 
-
-
-
+For example, I had the following fields selected: Genus_species, Family, height, loght, and County. These fields were automatically put into the areas bellow. The Rows contained non-numeric fields Family, height, and Genus_species. The Values contained numeric fields height, and loght.
+![PivotTableExample](https://user-images.githubusercontent.com/93753370/150448671-f436eedc-3407-4988-86ee-46a51a45502a.png)
