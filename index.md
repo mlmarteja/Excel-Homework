@@ -1,6 +1,10 @@
 ## How to Create PivotTables in Excel
 
-In this tutorial, I will illustrate how to utilize a PivotTable tool in Excel. PivotTables is a generic terms that is coined by Microsoft. According to Microsoft, [PivotTable](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) is a powerful tool that is used to calculate, summarize and analyze data. In addtion, it allows the user to see data comparisons, patterns, and trends. This example webpage will provide detailed instructions on how to utilize this tool. 
+In this tutorial, I will illustrate how to utilize a PivotTable tool in Excel. PivotTables is a generic terms that is coined by Microsoft. According to Microsoft, [PivotTable](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) is a powerful tool that is used to calculate, summarize and analyze data. 
+
+In addtion, it allows the user to see data comparisons, patterns, and trends. This allowsthe user to extract the significat information from a large detailed data set. For example, in this tutorial we will utilize Plant Height Data. Lets say that we want to only comparethe heights of each plant, could use PivotTables to illustrate sum of the heights of each of the plants that are presented in the data. 
+
+In this example webpage will provide basic instructions on how to utilize this tool and other operations that can be done.
 
 
 ## Step 1 - Open Microsoft Excel
@@ -35,7 +39,8 @@ The PivotTable Fields contains the fields of data, the areas, defer layout updat
 - Rows
 - ∑ Values
 
-![PivotTable Fields](https://user-images.githubusercontent.com/93753370/150441390-04a75ec0-368a-4b69-89af-b709974269df.png)
+![InsetToPivotTable](https://user-images.githubusercontent.com/93753370/150591109-c413bba3-6cb1-4f9f-ad85-c97dc35ae9f1.png)
+
 
 Note: When you click on the chosen fields, they will be put into default areas. In other words, non-numeric fields are added **Rows**, data and time is put into **Columns**, and numeric fields are placed under **Values**.
 
