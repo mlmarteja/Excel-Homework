@@ -24,7 +24,8 @@ In the video, it shows that you have to option to open an existing sheet that ha
 ## Step 3 - Insert -> PivotTable
 To navigate to the PivotTable, on the top menu bar, click on **Insert**. Under that menu, the option to create a **PivotTable** should be available. Once the PivotTable is found, click on it.
 
-![StartANewSheet](https://user-images.githubusercontent.com/93753370/150380610-664d91b8-7d76-4ef9-b8ef-ddc087de5fac.png)
+![InsetToPivotTable](https://user-images.githubusercontent.com/93753370/150591206-f98feb75-7577-4763-a5dd-29e0f57bb1d8.png)
+
 
 Once PivotTable is selected, a window will pop up and display a menu that will ask the user for the range of data that will be used in the PivotTable. For the Plant Height Data, the **Table/Range** that will be used for this example will be the whole sheet which is from columns A to AH and rows 1 to 179. To choose where you want the PivotTable to be placed, you could either select **New Worksheet** or **Existing Worksheet**. In this case, we will work in a new worksheet. Whatever you will need to commit the range that will be used, select **ok**.
 ![PivotTableRange](https://user-images.githubusercontent.com/93753370/150380713-7f9bbe6b-3be3-43e5-bf3e-8f61d9704429.png)
@@ -39,8 +40,7 @@ The PivotTable Fields contains the fields of data, the areas, defer layout updat
 - Rows
 - ∑ Values
 
-![InsetToPivotTable](https://user-images.githubusercontent.com/93753370/150591109-c413bba3-6cb1-4f9f-ad85-c97dc35ae9f1.png)
-
+![PivotTable Fields](https://user-images.githubusercontent.com/93753370/150591236-71a6b82f-5ea6-407e-a014-33a32d4236ff.png)
 
 Note: When you click on the chosen fields, they will be put into default areas. In other words, non-numeric fields are added **Rows**, data and time is put into **Columns**, and numeric fields are placed under **Values**.
 
