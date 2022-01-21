@@ -18,8 +18,8 @@ Once the Excel has been launched, start a new spreadsheet. To start a new spread
 An alternative is to just open an existing data set by selecting **File**. For this tutorial, I used [Plant Height Data](https://github.com/mlmarteja/Excel-Homework/blob/91b422a0b3023786847a292e1e368ff3746410d2/Plant%20Height%20Data%20-%20Data.csv) that was provided by Arielle from the previous Data Science Class
 
 Click on the Image below to know how to open an existing file on Excel
-[![open](Screenshot 2022-01-20 112215.png)](https://user-images.githubusercontent.com/93753370/150376768-3db48c42-bcfb-4914-a01d-cefd17acf407.mp4 "Open New Chat")
-In the video, it shows that you have to option to open an existing sheet that has been previously viewed or **Browse** to find a the spreadsheet.
+![open](open.png)
+This shows that you have to option to open an existing sheet that has been previously viewed or **Browse** to find a the spreadsheet.
 
 ## Step 3 - Insert -> PivotTable
 To navigate to the PivotTable, on the top menu bar, click on **Insert**. Under that menu, the option to create a **PivotTable** should be available. Once the PivotTable is found, click on it.
