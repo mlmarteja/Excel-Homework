@@ -53,7 +53,7 @@ For example, I had the following fields selected: Genus_species, Family, height,
 ![PivotTableExample](PivotTableExample.png)
 
 ### Working with PivotTable Values
-For this part we will be using the [Game](Games.csv) dataset that was found in [Kaggle](https://www.kaggle.com/). The dataset was created and posted by Khalid called [PC Games Sales](https://www.kaggle.com/khaiid/most-selling-pc-games). When working with the Values area, PivotTable firlds will create defult fields such as **SUM**. If you want the change any calculations that you want to present in the **Values** area, you can right click and select **Value Fields Settings** option.
+For this part we will be using the [Game](https://github.com/mlmarteja/PIvot-Tables/blob/c0fb18e7aa8622eb96ccb3571648d4d5e8ae630d/Games.csv) dataset that was found in [Kaggle](https://www.kaggle.com/). The dataset was created and posted by Khalid called [PC Games Sales](https://www.kaggle.com/khaiid/most-selling-pc-games). When working with the Values area, PivotTable firlds will create defult fields such as **SUM**. If you want the change any calculations that you want to present in the **Values** area, you can right click and select **Value Fields Settings** option.
 
 ![valuearea](valuearea.png)
 
