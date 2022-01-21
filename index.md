@@ -53,5 +53,9 @@ For this part we will be using the [Game] dataset that was found in [Kaggle](htt
 
 WHen the Value Field Settings pane is visible, you change change the type of calculation that is usedto summarize the data from the fields. For this example, instead of selecting **Sum** to display the sum of the sales, we will select **Average** to display the average of the sales.
 ![ValueSettings](https://github.com/mlmarteja/PIvot-Tables/blob/8a61e263ef7a1b55d6d88a965f9b6ec7b5aa5170/ValueSettings.png)
+
 Here is the new PivotTable with the average sales.
 ![AverageSales](https://github.com/mlmarteja/PIvot-Tables/blob/8a61e263ef7a1b55d6d88a965f9b6ec7b5aa5170/AverageSales.png)
+
+## Now It Is Your Turn.
+There are many other ways to use PivotTables but this tutorial illustrate basic steps on how to use it.I hope you find this basic tutorial on how to use this tool useful.
