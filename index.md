@@ -32,8 +32,14 @@ Once you have selected **ok**, a new sheet should be created and a task pane cal
 The PivotTable Fields contains the fields of data, the areas, defer layout update, and the update button. As seen in the picture below, the area contains four different areas.
 - Filters
 - Columns
-- Filters
+- Rows
 - ∑ Values
+
+![PivotTable Fields](https://user-images.githubusercontent.com/93753370/150441390-04a75ec0-368a-4b69-89af-b709974269df.png)
+
+Note: When you click on the chosen fields, they will be put into default areas. In other words, non-numeric fields are added **Rows**, data and time is put into **Columns**, and numeric fields are placed under **Values**.
+
+## Step 4 - 
 
 
 
